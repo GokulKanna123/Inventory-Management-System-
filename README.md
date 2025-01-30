@@ -1,5 +1,4 @@
-#inventory management system,Biztally 
-inventory management and point-of-sale web application built with Python, Flask, MongoDB, and HTML/CSS/JS. It helps small businesses track inventory, create invoices, and sell products online.
+#inventory management system,Biztally is inventory management and point-of-sale web application built with Python, Flask, MongoDB, and HTML/CSS/JS. It helps small businesses track inventory, create invoices, and sell products online.
 Features
 Inventory tracking - Add, edit, delete, and monitor stock items and quantities Barcode scanning - Scan item barcodes to quickly add/remove from inventory Invoicing - Generate detailed invoices and receipts for customers Sales reporting - Insightful reports on inventory status and sales activity Online selling - Sell products directly through the app with integrated payment processing
 
